@@ -1,6 +1,6 @@
 # story_time
 
-Bu proje, Flutter ile geliştirilmiş bir hikaye zamanı uygulamasıdır. Kullanıcılar, belirli bir hikayeyi okurken farklı seçenekler arasından seçim yaparak hikayenin akışını değiştirebilirler.
+Bu proje, Flutter ile geliştirilmiş bir hikaye zamanı uygulamasıdır. Kullanıcılar, belirli bir hikayeyi okurken farklı seçenekler arasından seçim yaparak hikayenin akışını değiştirebilirler...
 
 ## Başlarken
 
@@ -20,7 +20,3 @@ Flutter geliştirme hakkında daha fazla yardım almak için, çevrimiçi belgel
 ## Katkıda Bulunma
 
 Eğer bu projeye katkıda bulunmak istiyorsanız, lütfen GitHub deposunu ziyaret edin: [story_time GitHub](https://github.com/kullanici/story_time)
-
-## Lisans
-
-Bu proje açık kaynaklıdır ve MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasını inceleyebilirsiniz.
